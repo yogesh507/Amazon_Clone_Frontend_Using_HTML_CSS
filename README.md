@@ -1,0 +1,2 @@
+# Amazon_Clone_Frontend_Using_HTML_CSS
+frontend developer project for beginners
